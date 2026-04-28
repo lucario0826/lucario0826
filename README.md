@@ -40,7 +40,7 @@ Hello! My name is [Tu Nombre]. I live in [Tu Ciudad, País] :)
 <br>
 
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&count_private=true&show_icons=true&custom_title=Github&theme=chartreuse-dark&bg_color=0,000000,130F40&layout=compact&border_radius=8">
+<img src="https://github-readme-stats.vercel.app/api?username=lucario0826&count_private=true&show_icons=true&custom_title=Github&theme=chartreuse-dark&bg_color=0,000000,130F40&layout=compact&border_radius=8">
 </div>
 
 <br>
